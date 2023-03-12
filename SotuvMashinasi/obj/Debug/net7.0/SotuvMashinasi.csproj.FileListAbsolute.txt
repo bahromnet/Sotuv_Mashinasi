@@ -1,0 +1,15 @@
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\bin\Debug\net7.0\SotuvMashinasi.exe
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\bin\Debug\net7.0\SotuvMashinasi.deps.json
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\bin\Debug\net7.0\SotuvMashinasi.runtimeconfig.json
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\bin\Debug\net7.0\SotuvMashinasi.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\bin\Debug\net7.0\SotuvMashinasi.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.csproj.AssemblyReference.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.AssemblyInfoInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.AssemblyInfo.cs
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.csproj.CoreCompileInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\refint\SotuvMashinasi.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\SotuvMashinasi.genruntimeconfig.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\SotuvMashinasi\SotuvMashinasi\obj\Debug\net7.0\ref\SotuvMashinasi.dll
